@@ -1,3 +1,5 @@
+![Midjourney_Display1](https://github.com/Tech-in-Schools-Inititaitive/Midjourney-Display/assets/6137292/4d844720-847a-4bf7-8bd4-1c07b0ef70ce)
+
 # Midjourney Display 🎨🖥️ 
 
 Midjourney Display is a futuristic, web-based gallery that showcases a mesmerizing collection of AI-generated images 🤖🎭. Immerse yourself in the extraordinary world of AI creativity with our interactive and vibrant platform!
