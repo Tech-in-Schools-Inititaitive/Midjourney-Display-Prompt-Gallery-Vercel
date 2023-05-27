@@ -75,9 +75,7 @@ Now, it's time to run the app using the following command:
 npm run dev
 ```
 
-Open localhost:300
-
-0` in your browser, and you should see the Midjourney Display in all its glory!
+Open localhost:3000 in your browser, and you should see the Midjourney Display in all its glory!
 
 ## 🚀 New Features
 
