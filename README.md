@@ -113,5 +113,4 @@ We appreciate contributions that can make this display even more spectacular! We
 ## 📜 License
 
 This project is licensed under the MIT License. More details can be found in the [LICENSE](./LICENSE) file.
-```
 
