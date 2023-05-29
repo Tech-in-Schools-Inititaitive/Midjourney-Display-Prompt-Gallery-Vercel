@@ -8,7 +8,7 @@ WORKDIR /app
 COPY package.json package-lock.json ./
 
 # Install project dependencies with the --legacy-peer-deps flag
-RUN npm install --legacy-peer-deps
+RUN npm install --force
 
 # Copy the rest of the project files to the working directory
 COPY . .
