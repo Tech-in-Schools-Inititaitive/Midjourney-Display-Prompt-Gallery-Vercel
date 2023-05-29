@@ -56,24 +56,24 @@ Now, you need to invite the bot to your server:
 3. In the 'Bot Permissions' section, select 'Administrator'.
 4. A URL will be generated at the bottom of the scopes section, copy this URL.
 5. Paste this URL into a new browser tab and select your server.
-6
+6. Click 'Authorize', and your bot should now be in your server.
 
-. Click 'Authorize', and your bot should now be in your server.
 
 ### Step 4️⃣: Environment Variables 🌍
 
-Create a `.env` file in the root of your project. This file will hold environment variables, including the Discord bot token and the IDs for the server, channel, and session.
+Create a `.env` file in the root of your project. This file will hold environment variables, including the Discord bot token, OpenAI API key, and the IDs for the server, channel, and session.
 
 Your `.env` file should look like this:
 
 ```bash
-SALAI_TOKEN=<your-bot-token>
+BOT_TOKEN=<your-bot-token>
+OPENAI_API_KEY=<your-openai-api-key>
 CHANNEL_ID=<your-channel-id>
 SERVER_ID=<your-server-id>
 SESSION_ID=<your-session-id>
 ```
 
-Replace `<your-bot-token>` with the token obtained from the Discord Developer Portal. The `<your-channel-id>`, `<your-server-id>`, and `<your-session-id>` should be replaced with the respective IDs from your Discord server.
+Replace `<your-bot-token>` with the token obtained from the Discord Developer Portal. `<your-openai-api-key>` should be replaced with your OpenAI API key. The `<your-channel-id>`, `<your-server-id>`, and `<your-session-id>` should be replaced with the respective IDs from your Discord server.
 
 ### Step 5️⃣: Run the App 🚀
 
