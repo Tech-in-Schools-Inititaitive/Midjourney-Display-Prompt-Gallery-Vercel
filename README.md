@@ -74,6 +74,7 @@ Create a `.env` file in the root of your project. This file will hold environmen
 Your `.env` file should look like this:
 
 ```bash
+SALAI_TOKEN=<your-token>
 BOT_TOKEN=<your-bot-token>
 OPENAI_API_KEY=<your-openai-api-key>
 CHANNEL_ID=<your-channel-id>
