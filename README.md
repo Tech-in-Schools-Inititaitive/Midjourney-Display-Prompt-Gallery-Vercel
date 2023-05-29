@@ -114,4 +114,4 @@ We appreciate contributions that can make this display even more spectacular! We
 
 This project is licensed under the MIT License. More details can be found in the [LICENSE](./LICENSE) file.
 ```
-You can copy and paste this into your README.md file.
+
