@@ -58,6 +58,14 @@ Now, you need to invite the bot to your server:
 5. Paste this URL into a new browser tab and select your server.
 6. Click 'Authorize', and your bot should now be in your server.
 
+Obtain OpenAI API Key 🗝️
+To get your OpenAI API Key, follow the steps below:
+
+1. Create an account or log in to your existing account on OpenAI.
+2. Navigate to the API section in the dashboard.
+3. Here you will find your API Key. Be careful to keep this secret.
+
+Now that you have your OpenAI API Key, you can use it in your .env file.
 
 ### Step 4️⃣: Environment Variables 🌍
 
