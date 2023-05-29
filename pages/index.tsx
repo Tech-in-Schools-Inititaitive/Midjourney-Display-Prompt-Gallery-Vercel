@@ -52,7 +52,7 @@ export default function Home() {
         </div>
       </div>
 
-      <h1 className="title">Midjourney <span>Display</span></h1>
+      <h1 className="title">Midjourney <span>Display on Next.js + Vercel</span></h1>
       <div className="gallery">
         {images.map((image, index) => (
           <div key={index} className="image-container" title={image.text}>
